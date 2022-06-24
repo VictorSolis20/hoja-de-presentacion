@@ -1,7 +1,11 @@
-.primerdiv{
+body {
+    background-color: rgba(0, 206, 209, 0.288);
+}
+
+.primerdiv {
     text-align: center;
 }
 
-.segundodiv{
+.segundodiv {
     text-align: justify;
 }
